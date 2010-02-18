@@ -1,0 +1,6 @@
+[submodule "oauth_common"]
+	path = oauth_common
+	url = git://github.com/hugowetterberg/oauth_common.git
+[submodule "rest_client"]
+	path = rest_client
+	url = git://github.com/hugowetterberg/rest_client.git
